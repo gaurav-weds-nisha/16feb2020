@@ -211,7 +211,7 @@ function App() {
 
       <section className="map1 cid-qIiXmYb55q" id="map1-b">
         <div className="google-map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27381.84003006105!2d75.29509683776999!3d30.92217018157152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a0d1e7c55e183%3A0x6b7514a9aa39b9f!2sSidak%20Resort!5e0!3m2!1sen!2sin!4v1579674430210!5m2!1sen!2sin" width="600" height="450" frameborder="0" style={{ "border": "0px" }} allowfullscreen=""></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3421.4168851349027!2d75.81722541500982!3d30.958846481558947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a843cb878d0b3%3A0xb8ab96941990f109!2sSidak%20resort!5e0!3m2!1sen!2sin!4v1579718524688!5m2!1sen!2sin" width="600" height="450" frameborder="0" style={{ "border": "0px" }} allowfullscreen=""></iframe>
         </div>
       </section>
 
