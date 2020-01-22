@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/16feb2020/static/js/main.cfbeef85.chunk.js",
+    "main.js.map": "/16feb2020/static/js/main.cfbeef85.chunk.js.map",
+    "runtime-main.js": "/16feb2020/static/js/runtime-main.6909a175.js",
+    "runtime-main.js.map": "/16feb2020/static/js/runtime-main.6909a175.js.map",
+    "static/js/2.0c1974b3.chunk.js": "/16feb2020/static/js/2.0c1974b3.chunk.js",
+    "static/js/2.0c1974b3.chunk.js.map": "/16feb2020/static/js/2.0c1974b3.chunk.js.map",
+    "index.html": "/16feb2020/index.html",
+    "precache-manifest.6bef9a044a870985be4d74361cfbe16d.js": "/16feb2020/precache-manifest.6bef9a044a870985be4d74361cfbe16d.js",
+    "service-worker.js": "/16feb2020/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6909a175.js",
+    "static/js/2.0c1974b3.chunk.js",
+    "static/js/main.cfbeef85.chunk.js"
+  ]
+}
